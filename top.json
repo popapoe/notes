@@ -5,7 +5,7 @@
 	],
 	"links": [],
 	"backlinks": [
-		[ "", { "text": "OUTLINE: Literature", "src": "literature.json" }, " is a child of this outline." ]
+		[ "", { "text": "OUTLINE: Literature", "src": "literature/literature.json" }, " is a child of this outline." ]
 	]
 }
 
