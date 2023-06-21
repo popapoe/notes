@@ -1,10 +1,10 @@
 {
 	"heading": [ "OUTLINE: Vocabulary" ],
 	"content": [],
-	"backlinks": [
+	"links": [
 		[ "This outline is a child of ", { "text": "OUTLINE: Literature", "src": "literature.json" }, "." ]
 	],
-	"links": [
+	"backlinks": [
 		[ "", { "text": "IDEA: Alliteration", "src": "alliteration.json" }, " is a child of this outline." ],
 		[ "", { "text": "IDEA: Allusion", "src": "allusion.json" }, " is a child of this outline." ],
 		[ "", { "text": "IDEA: Anachronism", "src": "anachronism.json" }, " is a child of this outline." ],

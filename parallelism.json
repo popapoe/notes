@@ -3,9 +3,9 @@
 	"content": [
 		[ "I have no clue what \"parallelism\" could possibly mean..." ]
 	],
-	"backlinks": [
+	"links": [
 		[ "This idea is a child of ", { "text": "OUTLINE: Vocabulary", "src": "vocabulary.json" }, "." ]
 	],
-	"links": []
+	"backlinks": []
 }
 

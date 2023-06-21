@@ -3,8 +3,8 @@
 	"content": [
 		[ "This is truly the top of the text" ]
 	],
-	"backlinks": [],
-	"links": [
+	"links": [],
+	"backlinks": [
 		[ "", { "text": "OUTLINE: Literature", "src": "literature.json" }, " is a child of this outline." ]
 	]
 }
