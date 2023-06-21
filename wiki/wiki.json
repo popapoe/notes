@@ -1,13 +1,12 @@
 {
 	"heading": [ "IDEA: This wiki" ],
 	"content": [],
-	"links": [
-		[ "This idea is a child of ", { "text": "OUTLINE: Top", "src": "top.json" }, "." ]
-	],
+	"links": [],
 	"backlinks": [
 		[ "", { "text": "IDEA: Motivation", "src": "wiki/motivation.json" }, " is an instance of this idea." ],
 		[ "", { "text": "IDEA: Features", "src": "wiki/features.json" }, " is an instance of this idea." ],
-		[ "", { "text": "IDEA: Implementation", "src": "wiki/implementation.json" }, " is an instance of this idea." ]
+		[ "", { "text": "IDEA: Implementation", "src": "wiki/implementation.json" }, " is an instance of this idea." ],
+		[ "This idea is a child of ", { "text": "OUTLINE: Top", "src": "top.json" }, "." ]
 	]
 }
 

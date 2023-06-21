@@ -2,11 +2,11 @@
 	"heading": [ "OUTLINE: Literature" ],
 	"content": [],
 	"links": [
-		[ "This outline is a child of ", { "text": "OUTLINE: Top", "src": "top.json" }, "." ]
-	],
-	"backlinks": [
 		[ "", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, " is a child of this outline." ],
 		[ "", { "text": "IDEA: Linguistics", "src": "literature/linguistics.json" }, " is a child of this outline." ]
+	],
+	"backlinks": [
+		[ "This outline is a child of ", { "text": "OUTLINE: Top", "src": "top.json" }, "." ]
 	]
 }
 

@@ -3,9 +3,9 @@
 	"content": [
 		[ "I have no clue what \"apostrophe\" could possibly mean..." ]
 	],
-	"links": [
+	"backlinks": [
 		[ "This idea is a child of ", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, "." ]
 	],
-	"backlinks": []
+	"links": []
 }
 
