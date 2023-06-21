@@ -1,0 +1,12 @@
+{
+	"heading": [ "IDEA: \"Support\" relationships" ],
+	"content": [
+		[ "An ", { "text": "ARGUMENT node", "src": "wiki/argument-nodes.json" }, " is \"supports\" another ", { "text": "ARGUMENT node", "src": "wiki/argument-nodes.json" }, " if the second argument can use the first argument as a support." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Relationships", "src": "wiki/relationships.json" }, "." ],
+		[ "This idea is an instance of ", { "text": "IDEA: ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, "." ]
+	],
+	"backlinks": []
+}
+

@@ -1,0 +1,13 @@
+{
+	"heading": [ "IDEA: OUTLINE nodes" ],
+	"content": [
+		[ "An OUTLINE node represents a hierarchy. OUTLINE nodes are defined by their ", { "text": "child relationships", "src": "wiki/child-relationships.json" }, "." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Categories", "src": "wiki/categories.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: \"Child\" relationships", "src": "wiki/child-relationships.json" }, " is an instance of this idea." ]
+	]
+}
+

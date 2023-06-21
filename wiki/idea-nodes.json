@@ -1,0 +1,14 @@
+{
+	"heading": [ "IDEA: IDEA nodes" ],
+	"content": [
+		[ "An IDEA node represents a concept. IDEA nodes may be related to ", { "text": "ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, " with ", { "text": "\"about\" relationships", "src": "wiki/about-relationships.json" }, ". A concept may be an instance of another concept. This can be encoded with an ", { "text": "\"instance of\" relationship", "src": "wiki/instance-of-relationships.json" }, "." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Categories", "src": "wiki/categories.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: \"About\" relationships", "src": "wiki/about-relationships.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: \"Instance of\" relationships", "src": "wiki/instance-of-relationships.json" }, " is an instance of this idea." ]
+	]
+}
+

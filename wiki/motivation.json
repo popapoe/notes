@@ -1,0 +1,12 @@
+{
+	"heading": [ "IDEA: Motivation" ],
+	"content": [
+		[ "Popapo motivation" ],
+		[ "", { "text": "ARGUMENT: Personal wikis are human-friendly", "src": "wiki/encoding.json" } ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: This wiki", "src": "wiki/wiki.json" }, "." ]
+	],
+	"backlinks": []
+}
+

@@ -1,0 +1,16 @@
+{
+	"heading": [ "IDEA: Relationships" ],
+	"content": [
+		[ "", { "text": "IDEA", "src": "wiki/idea-nodes.json" }, ", ", { "text": "ARGUMENT", "src": "wiki/argument-nodes.json" }, ", and ", { "text": "OUTLINE nodes", "src": "wiki/outline-nodes.json" }, " are related in certain specific ways. Specifically: ", { "text": "IDEA nodes", "src": "wiki/idea-nodes.json" }, " relate to ", { "text": "IDEA nodes", "src": "wiki/idea-nodes.json" }, " with ", { "text": "\"instance of\" relationships", "src": "wiki/instance-of-relationships.json" }, "; ", { "text": "IDEA nodes", "src": "wiki/idea-nodes.json" }, " relate to ", { "text": "ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, " with ", { "text": "\"about\" relationships", "src": "wiki/about-relationships.json" }, "; ", { "text": "ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, " relate to ", { "text": "ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, " with ", { "text": "\"support\" relationships", "src": "wiki/support-relationships.json" }, "; and an ", { "text": "OUTLINE node", "src": "wiki/outline-nodes.json" }, " relates to any other node with a ", { "text": "\"child\" relationship", "src": "wiki/child-relationships.json" }, "." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Notes layer", "src": "wiki/notes-layer.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: \"Instance of\" relationships", "src": "wiki/instance-of-relationships.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: \"About\" relationships", "src": "wiki/about-relationships.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: \"Support\" relationships", "src": "wiki/support-relationships.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: \"Child\" relationships", "src": "wiki/child-relationships.json" }, " is an instance of this idea." ]
+	]
+}
+

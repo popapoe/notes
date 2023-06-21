@@ -1,0 +1,12 @@
+{
+	"heading": [ "IDEA: \"Instance of\" relationships" ],
+	"content": [
+		[ "An ", { "text": "IDEA node", "src": "wiki/idea-nodes.json" }, " is an \"instance of\" another ", { "text": "IDEA node", "src": "wiki/idea-nodes.json" }, " if any argument logically ", { "text": "about", "src": "wiki/about-relationships.json" }, " the first concept must be logically ", { "text": "about", "src": "wiki/about-relationships.json" }, " the second concept." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Relationships", "src": "wiki/relationships.json" }, "." ],
+		[ "This idea is an instance of ", { "text": "IDEA: IDEA nodes", "src": "wiki/idea-nodes.json" }, "." ]
+	],
+	"backlinks": []
+}
+

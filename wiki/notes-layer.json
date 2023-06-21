@@ -1,0 +1,15 @@
+{
+	"heading": [ "IDEA: Notes layer" ],
+	"content": [
+		[ "The notes layer takes advantage of ", { "text": "this wiki", "src": "wiki/wiki.json" }, " for ", { "text": "better encoding", "src": "wiki/encoding.json" }, ". It aims to provide a structured way to encode potentially complex subjects. In particular, nodes are put in ", { "text": "structured categories", "src": "wiki/categories.json" }, ". The nodes may each contain arbitrary hyperlinks, but they also contain ", { "text": "structured relationships", "src": "wiki/relationships.json" }, "." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Features", "src": "wiki/features.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: Node categories", "src": "wiki/categories.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: Relationships", "src": "wiki/relationships.json" }, " is an instance of this idea." ],
+		[ "", { "text": "ARGUMENT: The notes layer is usable", "src": "wiki/notes-layer-examples.json" }, " is about this idea." ]
+	]
+}
+

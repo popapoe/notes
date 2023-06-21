@@ -1,0 +1,15 @@
+{
+	"heading": [ "IDEA: ARGUMENT nodes" ],
+	"content": [
+		[ "An ARGUMENT node represents an argument, or an essay. ARGUMENT nodes may be related to ", { "text": "IDEA nodes", "src": "wiki/idea-nodes.json" }, " with ", { "text": "\"about\" relationships", "src": "wiki/about-relationships.json" }, ". An argument may use another argument as a support. This can be encoded with a ", { "text": "\"support\" relationship", "src": "wiki/support-relationships.json" }, "." ],
+		[ "The ", { "text": "four basic relationships", "src": "wiki/relationships.json" }, " are not enough to encode every type of relationship. Instead, an ARGUMENT node may be used to relate the two nodes. Presumably, the ", { "text": "four basic relationships", "src": "wiki/relationships.json" }, " do not need justification, whereas anything else does." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Categories", "src": "wiki/categories.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: \"About\" relationships", "src": "wiki/about-relationships.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: \"Support\" relationships", "src": "wiki/support-relationships.json" }, " is an instance of this idea." ]
+	]
+}
+

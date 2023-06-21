@@ -1,0 +1,12 @@
+{
+	"heading": [ "IDEA: \"Child\" relationships" ],
+	"content": [
+		[ "Any node may be a \"child of\" an ", { "text": "OUTLINE node", "src": "wiki/argument-nodes.json" }, "." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Relationships", "src": "wiki/relationships.json" }, "." ],
+		[ "This idea is an instance of ", { "text": "IDEA: OUTLINE nodes", "src": "wiki/outline-nodes.json" }, "." ]
+	],
+	"backlinks": []
+}
+

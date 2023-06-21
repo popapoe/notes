@@ -1,0 +1,15 @@
+{
+	"heading": [ "IDEA: Node categories" ],
+	"content": [
+		["", { "text": "IDEA", "src": "wiki/idea-nodes.json" }, ", ", { "text": "ARGUMENT", "src": "wiki/argument-nodes.json" }, ", and ", { "text": "OUTLINE nodes", "src": "wiki/outline-nodes.json" }, " let a user represent concepts, arguments, or hierarchies, respectively." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Notes layer", "src": "wiki/notes-layer.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: IDEA nodes", "src": "wiki/idea-nodes.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: OUTLINE nodes", "src": "wiki/outline-nodes.json" }, " is an instance of this idea." ]
+	]
+}
+

@@ -1,0 +1,13 @@
+{
+	"heading": [ "IDEA: Wiki layer" ],
+	"content": [
+		[ "The wiki layer is a mostly normal personal wiki." ],
+		[ "The defining feature is that it is completely static, so search is not available. This also allows the entire thing to be hosted on Github Pages. Editing is very convenient. If I switched devices and wanted a local working copy, I would simply clone \"https://github.com/popapoe/popapoe.github.io.git\" and use \"http.server\" or something. Unfortunately, it does not work under the \"file://\" scheme." ],
+		[ "Another unique feature is that the ", { "text": "outlines", "src": "wiki/outline-nodes.json" }, " are completely optional. Additionally, the same group of nodes may have multiple outlines. This was inspired by some of the \"outline\" articles on Wikipedia." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Features", "src": "wiki/features.json" }, "." ]
+	],
+	"backlinks": []
+}
+

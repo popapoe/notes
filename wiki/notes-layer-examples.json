@@ -1,0 +1,14 @@
+{
+	"heading": [ "ARGUMENT: The ", { "text": "notes layer", "src": "wiki/notes-layer.json" }, " is usable" ],
+	"content": [
+		[ "The ", { "text": "notes layer", "src": "wiki/notes-layer.json" }, " is usable. It can be used to encode ", { "text": "math", "src": "wiki/notes-layer-math.json" }, " and ", { "text": "history", "src": "wiki/notes-layer-history.json" }, "." ]
+	],
+	"links": [
+		[ "This argument is about ", { "text": "IDEA: Notes layer", "src": "wiki/notes-layer.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "ARGUMENT: The notes layer encodes math", "src": "wiki/notes-layer-math.json" }, " supports this argument." ],
+		[ "", { "text": "ARGUMENT: The notes layer encodes history", "src": "wiki/notes-layer-history.json" }, " supports this argument." ]
+	]
+}
+

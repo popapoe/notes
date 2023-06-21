@@ -1,0 +1,12 @@
+{
+	"heading": [ "ARGUMENT: The ", { "text": "notes layer", "src": "wiki/notes-layer.json" }, " encodes math" ],
+	"content": [
+		[ "The ", { "text": "categories", "src": "wiki/categories.json" }, " and ", { "text": "relationships", "src": "wiki/relationships.json" }, " of the ", { "text": "notes layer", "src": "wiki/notes-layer.json" }, " correspond to math cleanly. ", { "text": "IDEA nodes", "src": "wiki/idea-nodes.json" }, " correspond to definitions or theorems. ", { "text": "ARGUMENT nodes", "src": "wiki/idea-nodes.json" }, " correspond to proofs." ]
+	],
+	"links": [
+		[ "This argument is about ", { "text": "IDEA: Notes layer", "src": "wiki/notes-layer.json" }, "." ],
+		[ "This argument supports ", { "text": "ARGUMENT: The notes layer is usable", "src": "wiki/notes-layer-math.json" }, "." ]
+	],
+	"backlinks": []
+}
+

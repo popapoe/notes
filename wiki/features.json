@@ -1,0 +1,14 @@
+{
+	"heading": [ "IDEA: Features" ],
+	"content": [
+		[ "", { "text": "This wiki", "src": "wiki/wiki.json" }, " is split into two logical layers. Specifically, the ", { "text": "notes layer", "src": "wiki/notes-layer.json" }, " is completely unknown to the ", { "text": "wiki layer", "src": "wiki/wiki-layer.json" }, ". However, it was designed with the ", { "text": "notes layer", "src": "wiki/notes-layer.json" }, " in mind." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: This wiki", "src": "wiki/wiki.json" }, "." ]
+	],
+	"backlinks": [
+		[ "", { "text": "IDEA: Notes layer", "src": "wiki/notes-layer.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: Wiki layer", "src": "wiki/wiki-layer.json" }, " is an instance of this idea." ]
+	]
+}
+

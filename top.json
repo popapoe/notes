@@ -5,6 +5,7 @@
 	],
 	"links": [],
 	"backlinks": [
+		[ "", { "text": "IDEA: This wiki", "src": "wiki/wiki.json" }, " is a child of this outline." ],
 		[ "", { "text": "OUTLINE: Literature", "src": "literature/literature.json" }, " is a child of this outline." ]
 	]
 }

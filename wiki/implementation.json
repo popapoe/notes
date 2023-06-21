@@ -1,0 +1,14 @@
+{
+	"heading": [ "IDEA: Implementation" ],
+	"content": [
+		[ "There are a few notable aspects of the implementation of the ", { "text": "wiki layer", "src": "wiki/wiki-layer.json" }, "." ],
+		[ "Nodes are written in JSON. I did not want to use something as heavy as HTML. Most of the popular \"lightweight\" markup languages are not suitable for hypertext. I settled on a preformatted style that I could probably extend later. I am indeed writing it by hand..." ],
+		[ "Nodes are stored independently. Each node is represented by a JSON file in the (relative) \"./notes/\" directory. Nodes are loaded on demand, after the wiki browser itself. Each node is loaded with a separate \"XMLHttpRequest\". I have never liked the idea of loading or saving an entire wiki from a single file, personal or not." ],
+		[ "This wiki is hosted on \"https://popapoe.github.io/wiki/\" only to share it with classmates. The nodes are actually published in a separate submodule, as they are not necessarily attached to the wiki browser." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: This wiki", "src": "wiki/wiki.json" }, "." ]
+	],
+	"backlinks": []
+}
+

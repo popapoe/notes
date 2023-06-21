@@ -1,0 +1,13 @@
+{
+	"heading": [ "IDEA: \"About\" relationships" ],
+	"content": [
+		[ "An ", { "text": "ARGUMENT node", "src": "wiki/argument-nodes.json" }, " is \"about\" an ", { "text": "IDEA node", "src": "wiki/idea-nodes.json" }, " if the idea is a subject of the argument." ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Relationships", "src": "wiki/relationships.json" }, "." ],
+		[ "This idea is an instance of ", { "text": "IDEA: ARGUMENT nodes", "src": "wiki/argument-nodes.json" }, "." ],
+		[ "This idea is an instance of ", { "text": "IDEA: IDEA nodes", "src": "wiki/idea-nodes.json" }, "." ]
+	],
+	"backlinks": []
+}
+
