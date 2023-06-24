@@ -1,0 +1,13 @@
+{
+	"heading": [ "OUTLINE: Vocabulary by subject" ],
+	"content": [],
+	"links": [
+		[ "", { "text": "OUTLINE: Devices", "src": "literature/vocabulary-devices.json" }, " is a child of this outline." ],
+		[ "", { "text": "OUTLINE: Feet", "src": "literature/vocabulary-feet.json" }, " is a child of this outline." ],
+		[ "", { "text": "OUTLINE: Forms", "src": "literature/vocabulary-forms.json" }, " is a child of this outline." ]
+	],
+	"backlinks": [
+		[ "This outline is a child of ", { "text": "OUTLINE: Literature", "src": "literature/literature.json" }, "." ]
+	]
+}
+

@@ -3,6 +3,7 @@
 	"content": [],
 	"links": [
 		[ "", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, " is a child of this outline." ],
+		[ "", { "text": "OUTLINE: Vocabulary by subject", "src": "literature/vocabulary-subject.json" }, " is a child of this outline." ],
 		[ "", { "text": "IDEA: Linguistics", "src": "literature/linguistics.json" }, " is a child of this outline." ]
 	],
 	"backlinks": [
