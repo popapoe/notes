@@ -1,7 +1,10 @@
 {
 	"heading": [ "IDEA: Assonance" ],
 	"content": [
-		[ "I have no clue what \"assonance\" could possibly mean..." ]
+		[ "Assonance is the repetition of vowels between a line of words. Specifically, assonance refers to sounds rather than letters. In other words, it is concerned with ", { "text": "phonetics", "src": "literature/phonetics.json" }, "." ],
+		[ "Authors may use assonance to emphasize certain phrases. In general, their sound makes them more memorable." ],
+		[ "", { "text": "Consonance", "src": "literature/consonance.json" }, " is the consonant counterpart to assonance." ],
+		[ "Source: https://literarydevices.net/assonance/" ]
 	],
 	"backlinks": [
 		[ "This idea is a child of ", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, "." ]

@@ -1,10 +1,15 @@
 {
 	"heading": [ "IDEA: Consonance" ],
 	"content": [
-		[ "I have no clue what \"consonance\" could possibly mean..." ]
+		[ "Consonance is the repetition of consonants between a line of words. Specifically, consonance refers to sounds rather than letters. In other words, it is concerned with ", { "text": "phonetics", "src": "literature/phonetics.json" }, "." ],
+		[ "Authors may use consonance to emphasize certain phrases. In general, their sound makes them more memorable. It occurs in many common English expressions, such as \"bread and butter\", \"prim and proper\", et cetera (https://www.enchantedlearning.com/wordlist/alliteration.shtml)." ],
+		[ "", { "text": "Alliteration", "src": "literature/alliteration.json" }, " is the most common type of consonance. Compared to ", { "text": "alliteration", "src": "literature/alliteration.json" }, ", consonance may occur, for example, at the middles or ends of adjacent words. Because consonance is less specific than ", { "text": "alliteration", "src": "literature/alliteration.json" }, ", it is often used only when ", { "text": "alliteration", "src": "literature/alliteration.json" }, " does not apply." ],
+		[ "", { "text": "Assonance", "src": "literature/assonance.json" }, " is the vowel counterpart to consonance." ],
+		[ "Source: https://literarydevices.net/consonance/" ]
 	],
 	"backlinks": [
-		[ "This idea is a child of ", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, "." ]
+		[ "This idea is a child of ", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, "." ],
+		[ "", { "text": "IDEA: Alliteration", "src": "literature/alliteration.json" }, " is an instance of this idea." ]
 	],
 	"links": []
 }

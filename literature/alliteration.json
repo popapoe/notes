@@ -1,11 +1,14 @@
 {
 	"heading": [ "IDEA: Alliteration" ],
 	"content": [
-		[ "I have no clue what \"alliteration\" could possibly mean..." ]
+		[ "Alliteration is ", { "text": "consonance", "src": "literature/consonance.json" }, " occuring at the beginnings of words." ],
+		[ "Source: https://literarydevices.net/alliteration/" ]
 	],
 	"backlinks": [
 		[ "This idea is a child of ", { "text": "OUTLINE: Vocabulary", "src": "literature/vocabulary.json" }, "." ]
 	],
-	"links": []
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Consonance", "src": "literature/consonance.json" }, "." ]
+	]
 }
 
