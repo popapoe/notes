@@ -1,0 +1,11 @@
+{
+	"heading": [ "IDEA: Stress" ],
+	"content": [
+		[ "To do" ]
+	],
+	"links": [
+		[ "This idea is an instance of ", { "text": "IDEA: Prosody", "src": "literature/prosody.json" }, "." ]
+	],
+	"backlinks": []
+}
+

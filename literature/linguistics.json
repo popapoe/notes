@@ -6,6 +6,7 @@
 	"links": [],
 	"backlinks": [
 		[ "", { "text": "IDEA: Prosody", "src": "literature/prosody.json" }, " is an instance of this idea." ],
+		[ "", { "text": "IDEA: Phonetics", "src": "literature/phonetics.json" }, " is an instance of this idea." ],
 		[ "This idea is a child of ", { "text": "IDEA: Literature", "src": "literature/literature.json" }, "." ]
 	]
 }
